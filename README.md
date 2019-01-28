@@ -3,3 +3,5 @@ Analysis of the HFI dataset found on Kaggle here: https://www.kaggle.com/gsutter
 
 This Jupyter notebook contains a cursory analysis of world religious freedom as documented by the Human Freedom 
 Index dataset on Kaggle. Any suggestions for deeper analysis are always appreciated.
+
+To view embedded Tableau visualizations, click on "nbviewer".
